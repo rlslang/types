@@ -1,4 +1,6 @@
 {
 	"name": "@rlsl/types",
+	"description": "A definition of types which needs to be used globally",
+	"version": "0.1.0",
 	"types": "index.d.ts"
 }
