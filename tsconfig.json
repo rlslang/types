@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"exactOptionalPropertyTypes": true,
+		"lib": [ "ES2021" ],
+		"module": "CommonJS",
+		"moduleResolution": "Node",
+		"noEmit": true,
+		"strict": true,
+		"target": "ES2021",
+		"watch": true
+	},
+	"include": [ "index.d.ts" ]
+}
